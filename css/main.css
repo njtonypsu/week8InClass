@@ -1,0 +1,40 @@
+div.container-fluid {
+	margin-top: 200px;
+}
+
+img#icon {
+	float: right;
+}
+
+div.signOn {
+	background-color: blue;
+}
+
+div.container-fluid form {
+	text-align: center;
+	margin: 0 auto;
+}
+
+div.container-fluid input {
+	padding: 2px 0;
+	margin: 5px 20px;
+}
+
+input#username {
+	padding: 2px 0;
+	margin: 35px 20px 5px;
+}
+
+div.container-fluid button {
+	padding: 5px 100px;
+	margin-top: 5px;
+}
+
+form h6 {
+	color: #fff;
+}
+
+h3#result {
+	color: yellow;
+	font-weight: bold;
+}
